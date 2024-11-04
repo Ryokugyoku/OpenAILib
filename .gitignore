@@ -1,0 +1,6 @@
+/.idea/
+/OpenAILib/obj/
+/OpenAILib/bin/
+/OpenAILib.Tests/obj/
+/OpenAILib.Tests/bin/
+*.DotSettings.user
